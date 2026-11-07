@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-07",
+  "tola24": 429136,
+  "gram10_24": 367914,
+  "issuer": "All Pakistan Sarafa Gems and Jewellers Association",
+  "sources": [
+    { "name": "ARY News", "url": "https://arynews.tv/gold-rates-today-in-pakistan" },
+    { "name": "Daily Pakistan", "url": "https://en.dailypakistan.com.pk/07-Nov-2026/today-gold-rates-in-pakistan-new-per-tola-gold-price-7-november-2026" },
+    { "name": "Pakistan Observer", "url": "https://pakobserver.net/gold-prices-in-pakistan-today-24-22-and-21-karat-prices-on-7-november-2026/" },
+    { "name": "Hamariweb", "url": "https://hamariweb.com/finance/gold_rate/" }
+  ],
+  "history": [
+    { "date": "2026-10-31", "tola24": 409736 },
+    { "date": "2026-11-02", "tola24": 412136 },
+    { "date": "2026-11-03", "tola24": 412136 },
+    { "date": "2026-11-04", "tola24": 426036 },
+    { "date": "2026-11-05", "tola24": 435636 },
+    { "date": "2026-11-06", "tola24": 429136 },
+    { "date": "2026-11-07", "tola24": 429136 }
+  ]
+}
